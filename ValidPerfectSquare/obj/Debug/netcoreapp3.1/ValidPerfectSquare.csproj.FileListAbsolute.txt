@@ -1,0 +1,13 @@
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\bin\Debug\netcoreapp3.1\ValidPerfectSquare.exe
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\bin\Debug\netcoreapp3.1\ValidPerfectSquare.deps.json
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\bin\Debug\netcoreapp3.1\ValidPerfectSquare.runtimeconfig.json
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\bin\Debug\netcoreapp3.1\ValidPerfectSquare.runtimeconfig.dev.json
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\bin\Debug\netcoreapp3.1\ValidPerfectSquare.dll
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\bin\Debug\netcoreapp3.1\ValidPerfectSquare.pdb
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\netcoreapp3.1\ValidPerfectSquare.csproj.AssemblyReference.cache
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\netcoreapp3.1\ValidPerfectSquare.AssemblyInfoInputs.cache
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\netcoreapp3.1\ValidPerfectSquare.AssemblyInfo.cs
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\netcoreapp3.1\ValidPerfectSquare.csproj.CoreCompileInputs.cache
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\netcoreapp3.1\ValidPerfectSquare.dll
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\netcoreapp3.1\ValidPerfectSquare.pdb
+C:\Users\ncheburet\source\repos\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\netcoreapp3.1\ValidPerfectSquare.genruntimeconfig.cache
